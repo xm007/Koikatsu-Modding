@@ -40,7 +40,7 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5441432519
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/549436455907229697
 
-## How to convert usual normalmap to KK normalmap from xm007#5145(Discord):
+### How to convert usual normalmap to KK normalmap from xm007#5145(Discord):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/550295398305234944
 
