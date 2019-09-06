@@ -14,7 +14,7 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5489638973
 
 ### Create .zipmod and steps by Bepis(github):
 
-https://github.com/bbepis/BepisPlugins/wiki/Creating-.zip-mods
+https://github.com/bbepis/BepisPlugins/wiki
 
 ### How to use Unity Editor to create assetbundle for Koikatsu by HarvexARC#6374(Discord):
 
