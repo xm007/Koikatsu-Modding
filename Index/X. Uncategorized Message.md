@@ -30,7 +30,7 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5539758611
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/550037170497388574
 
-### Introduction to usual Unity Toon Shader by xm007#5145(Discord):
+### Introduction of usual Unity Toon Shader by xm007#5145(Discord):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/593754867734937620
 
