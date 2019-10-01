@@ -60,9 +60,9 @@ https://www.youtube.com/watch?v=NI9EPj-f3i8
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/627177296637198377
 
-### Painting Eye-Lashes in 2d by enimaroah(Hongfire):
+### Painting Eye-Lashes in 2d by enimaroah(Guthub):
 
-http://www.hongfire.com/forum/forum/hentai-lair/hf-modding-translation/5925073-illusion-koikatu-koikatsu-%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84%EF%BC%81-trial-and-game-modding-discussion?p=6767324#post6767324
+https://github.com/enimaroah/SB3Utility/wiki/Painting-Eye-Lashes-in-2d
 
 # Animation and Poses
 
