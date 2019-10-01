@@ -1,8 +1,8 @@
-### Head re-location for making hair by enimaroah(Hongfire):
+### Head re-location for making hair by enimaroah(Github):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/540110830683947010
 
-### KK Clothes Position Correction by enimaroah(Hongfire):
+### KK Clothes Position Correction by enimaroah(Github):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/515496300251447326
 
