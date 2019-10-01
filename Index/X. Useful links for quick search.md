@@ -1,6 +1,6 @@
 # Preparation
 
-### Production cycle by enimaroah(Hongfire):
+### Production cycle by enimaroah(Github):
 1. export something
 2. import in your 3d editor
 3. minimal or trivial single change, e.g. pull a vertex a good deal away from its original position
@@ -102,11 +102,11 @@ https://discordapp.com/channels/447114928785063977/476358846764548137/6051823193
 
 # Uncategorized links
 
-### Head re-location for making hair by enimaroah(Hongfire):
+### Head re-location for making hair by enimaroah(Github):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/540110830683947010
 
-### KK Clothes Position Correction by enimaroah(Hongfire):
+### KK Clothes Position Correction by enimaroah(Github):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/515496300251447326
 
