@@ -25,6 +25,8 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5937536726
 ### Hair Accessory Guide/Item Porting Guide/Koikatsu to EmotionCreators Porting Guide/NormalMap Editing Guide by Deathweasel(github)aka Anon11(Discord):
 
 https://github.com/DeathWeasel1337/KK_Plugins/wiki/Hair-Accessory-Guide
+https://github.com/DeathWeasel1337/KK_Plugins/wiki/Item-Porting-Guide
+https://github.com/DeathWeasel1337/KK_Plugins/wiki/NormalMap-Editing-Guide
 
 ### How to port models to Koikatsu - Studio by Creamster#2433(Discord):
 
