@@ -66,6 +66,10 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/6271772966
 
 https://github.com/enimaroah/SB3Utility/wiki/Painting-Eye-Lashes-in-2d
 
+### KK Overlay Tutorial by Sylvers#7306
+
+https://github.com/ManlyMarco/Koikatu-Overlay-Mods/blob/master/Guide/%5BSylvers%5D%20KK%20Overlay%20Tutorial.md
+
 # Animation and Poses
 
 ### More Poses for the Maker by enimaroah(Hongfire):
