@@ -8,9 +8,13 @@
 5. in Sb3UGS import and replace the original, save
 6. test in game / poser
 
-### Searching for original items by enimaroah(Hongfire):
+### Searching for original items by enimaroah#2837(Discord):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/548963897328140298
+
+### Making an independent copy of an item by enimaroah#2837(Discord):
+
+https://discordapp.com/channels/447114928785063977/447116603591622666/548977353183723520
 
 ### Create .zipmod and steps by Bepis(github):
 
