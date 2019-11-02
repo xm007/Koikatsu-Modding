@@ -74,6 +74,10 @@ https://github.com/enimaroah/SB3Utility/wiki/Painting-Eye-Lashes-in-2d
 
 https://github.com/ManlyMarco/Koikatu-Overlay-Mods/blob/master/Guide/%5BSylvers%5D%20KK%20Overlay%20Tutorial.md
 
+### Normalmap Guide  by Wogrim#4935(Discord):
+
+https://discordapp.com/channels/447114928785063977/521436022123397120/639366097291968532
+
 # Animation and Poses
 
 ### More Poses for the Maker by enimaroah(Hongfire):
