@@ -20,6 +20,10 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5489773531
 
 https://github.com/bbepis/BepisPlugins/wiki
 
+### Wogrim's Epic Guide to Making a Zipmod by Wogrim#4395(Discord):
+
+https://discordapp.com/channels/447114928785063977/521436022123397120/640391694193393694
+
 ### How to use Unity Editor to create assetbundle for Koikatsu by HarvexARC#6374(Discord):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/593753672618475531
