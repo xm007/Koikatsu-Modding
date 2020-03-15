@@ -37,6 +37,21 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5937548677
 ### How to merge separate parts by Creamstar#2433(Discord):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/617365507602907162
+
 ### How 2 add another animator by Creamstar#2433(Discord):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/617366395382136864
+
+### KK:Add a custom head by enimaroah#2837(Github)
+
+https://github.com/enimaroah/SB3Utility/wiki/KK:-Adding-a-custom-head
+
+### Basic terminology in different tools : Bone versus Joint by enimaroah#2837(Github):
+
+https://github.com/enimaroah/SB3Utility/wiki/Basic-terminology-in-different-tools-:-Bone-versus-Joint
+
+### Small excursion about external materials and textures [Part_1]/[Part_2] enimaroah#2837(Github):
+
+https://github.com/enimaroah/SB3Utility/wiki/Small-excursion-about-external-materials-and-textures-%5BPart_1%5D
+https://github.com/enimaroah/SB3Utility/wiki/Small-excursion-about-external-materials-and-textures-%5BPart_2%5D
+
