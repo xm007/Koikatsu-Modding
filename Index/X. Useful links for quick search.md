@@ -1,4 +1,4 @@
-# Preparation
+# Prepare yourself
 
 ### Production cycle by enimaroah(Github):
 1. export something
@@ -39,6 +39,10 @@ https://github.com/DeathWeasel1337/KK_Plugins/wiki/NormalMap-Editing-Guide
 ### How to port models to Koikatsu - Studio by Creamster#2433(Discord):
 
 https://www.youtube.com/watch?v=72v2iam4Zdo
+
+### Replacing Meshes by enimaroah#2837(github)
+
+https://github.com/enimaroah/SB3Utility/wiki/Replacing-Meshes
 
 # Texture editing
 
@@ -143,3 +147,16 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5500371704
 ### Introduction of usual Unity Toon Shader by xm007#5145(Discord):
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/593754867734937620
+
+### KK:Add a custom head by enimaroah#2837(Github)
+
+https://github.com/enimaroah/SB3Utility/wiki/KK:-Adding-a-custom-head
+
+### Basic terminology in different tools : Bone versus Joint by enimaroah#2837(Github):
+
+https://github.com/enimaroah/SB3Utility/wiki/Basic-terminology-in-different-tools-:-Bone-versus-Joint
+
+### Small excursion about external materials and textures [Part_1]/[Part_2] enimaroah#2837(Github):
+
+https://github.com/enimaroah/SB3Utility/wiki/Small-excursion-about-external-materials-and-textures-%5BPart_1%5D
+https://github.com/enimaroah/SB3Utility/wiki/Small-excursion-about-external-materials-and-textures-%5BPart_2%5D
