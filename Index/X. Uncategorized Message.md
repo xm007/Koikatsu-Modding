@@ -55,3 +55,7 @@ https://github.com/enimaroah/SB3Utility/wiki/Basic-terminology-in-different-tool
 https://github.com/enimaroah/SB3Utility/wiki/Small-excursion-about-external-materials-and-textures-%5BPart_1%5D
 https://github.com/enimaroah/SB3Utility/wiki/Small-excursion-about-external-materials-and-textures-%5BPart_2%5D
 
+### Baking a Diffuse Map without having the original Mesh by enimaroah#2837(Github):
+
+https://github.com/enimaroah/SB3Utility/wiki/Baking-a-Diffuse-Map-without-having-the-original-Mesh
+
