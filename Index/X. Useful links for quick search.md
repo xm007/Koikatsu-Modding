@@ -156,7 +156,11 @@ https://github.com/enimaroah/SB3Utility/wiki/KK:-Adding-a-custom-head
 
 https://github.com/enimaroah/SB3Utility/wiki/Basic-terminology-in-different-tools-:-Bone-versus-Joint
 
-### Small excursion about external materials and textures [Part_1]/[Part_2] enimaroah#2837(Github):
+### Small excursion about external materials and textures [Part_1]/[Part_2] by enimaroah#2837(Github):
 
 https://github.com/enimaroah/SB3Utility/wiki/Small-excursion-about-external-materials-and-textures-%5BPart_1%5D
 https://github.com/enimaroah/SB3Utility/wiki/Small-excursion-about-external-materials-and-textures-%5BPart_2%5D
+
+### Baking a Diffuse Map without having the original Mesh by enimaroah#2837(Github):
+
+https://github.com/enimaroah/SB3Utility/wiki/Baking-a-Diffuse-Map-without-having-the-original-Mesh
