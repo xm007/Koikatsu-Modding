@@ -33,6 +33,8 @@ Most thanks to people at English Koikatsu! Discord server who helped me to get i
 
 [X. Modding tutorials created by other modders](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/X.%20Modding%20tutorials%20created%20by%20other%20modders.md)
 
+[X. Modder Resources](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/X.%20Modder%20Resources.md)
+
 [X. Uncategorized Message](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/X.%20Uncategorized%20Message.md)
 
 [X. Useful links for quick search](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/X.%20Useful%20links%20for%20quick%20search.md)
