@@ -15,6 +15,7 @@ If you have any questions,welcome ato English Koikatsu! Discord server #mod-mode
 Most thanks to people at English Koikatsu! Discord server who helped me to get into modding.Without them you could never seen such a tutorial.
 
 10/2/19:Due to Hongfire was dead,so all Hongfire links are unusable,please wait enimaroah to update his article to github.
+
 13/5/20:Add thumbnails to X. Useful links for quick search,add X. Modder Resources;7. Use Unity for mod creation,delete X. Modding tutorials created by other modders,also add the new links.
 
 ## Index
