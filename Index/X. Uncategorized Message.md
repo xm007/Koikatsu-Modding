@@ -10,11 +10,11 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5437222747
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/550037170497388574
 
-### How to merge separate (mesh)parts by Creamstar#2433(Discord):
+### How to merge separate (mesh)parts - Creamstar
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/617365507602907162
 
-### How 2 add another animator by Creamstar#2433(Discord):
+### How 2 add another animator - Creamstar
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/617366395382136864
 
@@ -46,3 +46,11 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/7055402917
 ### Enimaroah's suggestions - enimaroah
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/682197838691696661
+
+### Wogrim main opaque shader info - Wogrim
+
+https://discord.com/channels/447114928785063977/521436022123397120/630259596979601418
+
+### Wogrim Body to Blender Guide - Wogrim
+
+https://discord.com/channels/447114928785063977/521436022123397120/625900202347462657
