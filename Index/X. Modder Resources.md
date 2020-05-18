@@ -12,4 +12,5 @@ https://www.patreon.com/posts/36288776
 
 ### KK web toolbox - Unknown
 
-https://koikoi.happy.nu/thumbnail_maker/
+Thumbnail:https://koikoi.happy.nu/thumbnail_maker/
+Mod detector:https://koikoi.happy.nu/mod_detector/
