@@ -178,7 +178,7 @@ https://discordapp.com/channels/447114928785063977/476358846764548137/6051195184
 https://discordapp.com/channels/447114928785063977/476358846764548137/605152677953011752
 ![](https://github.com/xm007/Koikatsu-Modding/blob/master/Image/thumbnail/Monobehaviour%5BKind%5D%20for%20AI%20behaviour.png)
 
-### Sample of a H-scene and also Standard map maker unitypack - essu
+### Sample of a H-scene and also Standard map maker unitypack - essu/Anon11
 
 https://discord.com/channels/447114928785063977/476358846764548137/605125483402756199
 https://github.com/IllusionMods/KoikatsuModdingTools
