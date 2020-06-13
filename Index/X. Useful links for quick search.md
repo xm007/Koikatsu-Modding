@@ -114,6 +114,11 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5489638973
 https://discordapp.com/channels/447114928785063977/447116603591622666/548977353183723520
 ![](https://github.com/xm007/Koikatsu-Modding/blob/master/Image/thumbnail/Make%20an%20independent%20copy%20of%20an%20item.png)
 
+###  Creating a copy of an Animator -enimaroah
+
+https://discordapp.com/channels/447114928785063977/447116603591622666/721331383401971754
+![]()
+
 ## Hair Accessory
 
 ### Head re-location for making hair - enimaroah
