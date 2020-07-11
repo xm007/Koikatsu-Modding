@@ -171,6 +171,10 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5508171704
 https://docs.google.com/presentation/d/e/2PACX-1vSY4Pr4D_vRdOApal1v7o_sKqkhe0ccDJRoJ8rSILjfF6SoCoIBmbUmSnciSrvVGxG2PfF9TL2f5-60/pub?start=false&loop=false&delayms=3000
 ![](https://github.com/xm007/Koikatsu-Modding/blob/master/Image/thumbnail/Let's%20Use%20Unity%20Editor%20for%20Koikatsu%20MODDING%20-%20featuring%20animations.png)
 
+### Explanations about make animations - johnbbob_la_petite
+https://discord.com/channels/447114928785063977/447116603591622666/728543442778718249
+![](https://github.com/xm007/Koikatsu-Modding/blob/master/Image/thumbnail/animations.png)
+ 
 # H-scene related
 
 ### H-Point Category ID - essu
