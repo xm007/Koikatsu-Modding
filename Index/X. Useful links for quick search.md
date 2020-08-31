@@ -315,3 +315,7 @@ https://discord.com/channels/447114928785063977/521436022123397120/6302595969796
 
 https://discord.com/channels/447114928785063977/521436022123397120/625900202347462657
 ![](https://github.com/xm007/Koikatsu-Modding/blob/master/Image/thumbnail/Wogrim%20body%20to%20blender.png)
+
+### AI_Tips - hooh
+
+https://github.com/hooh-hooah/AI_Tips
