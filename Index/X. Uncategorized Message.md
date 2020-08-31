@@ -54,3 +54,7 @@ https://discord.com/channels/447114928785063977/521436022123397120/6302595969796
 ### Wogrim Body to Blender Guide - Wogrim
 
 https://discord.com/channels/447114928785063977/521436022123397120/625900202347462657
+
+### AI_Tips - hooh
+
+https://github.com/hooh-hooah/AI_Tips
