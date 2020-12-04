@@ -83,6 +83,10 @@ https://github.com/ManlyMarco/Koikatu-Overlay-Mods/blob/master/Guide/%5BSylvers%
 
 ![](https://github.com/xm007/Koikatsu-Modding/blob/master/Image/thumbnail/colors.png)
 
+### Substance Painter KK Normals Document
+
+https://mega.nz/file/CgVwURCZ#jS6Q4AmLsKHdOZHH40HXj3rnWZzNC9xMNBmp8_NYNBo
+
 # Studio related
 
 ### How to port models to Koikatsu -- Studio - Creamster
