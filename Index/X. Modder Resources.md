@@ -1,6 +1,7 @@
 ### SB3Uitilty - enimaroah
 
-https://github.com/enimaroah/SB3Utility /n
+https://github.com/enimaroah/SB3Utility
+
 https://gitea.com/enimaroah/Sb3UGS/releases
 
 ### Koikatsu Modding Tools - Anno11
