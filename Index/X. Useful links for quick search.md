@@ -238,6 +238,8 @@ https://github.com/IllusionMods/KoikatsuModdingTools/wiki/Studio-ItemBoneList-Ge
 
 https://github.com/enimaroah/SB3Utility
 
+https://gitea.com/enimaroah/Sb3UGS/releases
+
 ### Koikatsu Modding Tools - Anno11
 
 https://github.com/IllusionMods/KoikatsuModdingTools
