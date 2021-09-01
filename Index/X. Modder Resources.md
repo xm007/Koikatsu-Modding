@@ -16,3 +16,7 @@ https://www.patreon.com/posts/36288776
 
 Thumbnail:https://koikoi.happy.nu/thumbnail_maker/
 Mod detector:https://koikoi.happy.nu/mod_detector/
+
+### Emotion Creators unity3d project - MakotoYuki90
+
+https://discord.com/channels/447114928785063977/521436022123397120/815224440542724097
