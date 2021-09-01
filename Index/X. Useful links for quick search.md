@@ -169,6 +169,10 @@ https://discordapp.com/channels/447114928785063977/447116603591622666/5401031027
 
 # Animation and Poses
 
+### Animation Guide(Blender only) - Omega
+
+https://discord.com/channels/447114928785063977/521436022123397120/851074457325404212
+
 ### More Poses for the Maker - enimaroah
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/550817170460901400
