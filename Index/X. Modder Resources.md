@@ -4,9 +4,13 @@ https://github.com/enimaroah/SB3Utility
 
 https://gitea.com/enimaroah/Sb3UGS/releases
 
-### Koikatsu Modding Tools - Anno11
+### Koikatsu Modding Tools - Anon11
 
 https://github.com/IllusionMods/KoikatsuModdingTools
+
+### Koikatsu Sunshine Modding Tools - Anon11
+
+https://github.com/IllusionMods/KoikatsuSunshineModdingTools
 
 ### KK Image Converter - Joan6694
 
