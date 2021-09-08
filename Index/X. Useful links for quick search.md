@@ -12,6 +12,10 @@
 5. in Sb3UGS import and replace the original, save
 6. test in game / poser
 
+### KK Moding 101 - Wogrim
+
+https://discord.com/channels/447114928785063977/521436022123397120/885057657487097866
+
 # Texture editing
 
 ### Use of the textures - essu
