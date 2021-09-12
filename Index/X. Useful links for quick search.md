@@ -18,6 +18,10 @@ https://discord.com/channels/447114928785063977/521436022123397120/8850576574870
 
 # Texture editing
 
+### Make an item colorable - Wogrim
+
+https://discord.com/channels/447114928785063977/447116603591622666/886399477257240636
+
 ### Use of the textures - essu
 
 https://discordapp.com/channels/447114928785063977/447116603591622666/544143251951583233
