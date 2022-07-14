@@ -35,10 +35,10 @@ Most thanks to people at English Koikatsu! Discord server who helped me to get i
 
 [7. Use Unity for mod creation(Comming soon)](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/7.%20Use%20Unity%20for%20mod%20creation.md)
 
+[W. Wogrim Guide](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/W.%20Wogrim%20Guide)
+
 [X. Modder Resources](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/X.%20Modder%20Resources.md)
 
 [X. Uncategorized Message](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/X.%20Uncategorized%20Message.md)
 
 [X. Useful links for quick search](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/X.%20Useful%20links%20for%20quick%20search.md)
-
-[Y. Wogrim Guide](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/W.%20Wogrim%20Guide)
