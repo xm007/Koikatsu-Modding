@@ -40,3 +40,5 @@ Most thanks to people at English Koikatsu! Discord server who helped me to get i
 [X. Uncategorized Message](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/X.%20Uncategorized%20Message.md)
 
 [X. Useful links for quick search](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/X.%20Useful%20links%20for%20quick%20search.md)
+
+[Y. Wogrim Guide](https://github.com/xm007/Koikatsu-Modding/blob/master/Index/W.%20Wogrim%20Guide)
